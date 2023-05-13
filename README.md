@@ -6,7 +6,7 @@ The primary objective is to provide a one-stop platform that enables all commute
 <br>
 This repository contains the backend code of WanderfulSG. <br>
 <br>
-**Steps to run the backend on your local machine**
+**Steps to run the backend on your local machine** <br>
 To run the repository, create a new virtual environment after cloning the repository<br>
 <code>python -m venv <Name of virtual environment> </code>
 
