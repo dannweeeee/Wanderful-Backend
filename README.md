@@ -22,5 +22,6 @@ Run the following command <br>
 Run the following command to run the django server<br>
 <code>python manage.py runserver</code> 
 
-## Demo Video
-<a href="https://youtu.be/x5ggTytjw38">Link</a>
+## Documentation
+Documents: Found in 
+Demo Video: https://youtu.be/x5ggTytjw38
