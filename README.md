@@ -23,5 +23,5 @@ Run the following command to run the django server<br>
 <code>python manage.py runserver</code> 
 
 ## Documentation
-Documents: Found in <br>
+Documents: Found in https://github.com/dannweeeee/Wanderful <br>
 Demo Video: https://youtu.be/x5ggTytjw38
